@@ -46,9 +46,12 @@ This collection includes:
 2. **Search** - Press `Ctrl+F` (or `Cmd+F` on Mac) to find specific tools
 3. **Bookmark** - Star this repo to keep it handy
 4. **Contribute** - Found something useful? Add it via pull request!
+5. **Submit Your Product** - Add your startup to [Product Directory](Product.md) using [Product Submission Guide](PRODUCT_SUBMISSION.md)
 
 ## 📋 Table of Contents
 
+- [Product Directory](Product.md)
+- [Product Submission Guide](PRODUCT_SUBMISSION.md)
 - [Learning & Knowledge](#learning--knowledge)
 - [Courses & Videos](#courses--videos)
 - [Podcasts](#podcasts)
