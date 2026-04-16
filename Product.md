@@ -32,10 +32,16 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td>Freemium</td>
 			<td><a href="https://www.lets-code.co.in/">lets-code.co.in</a></td>
 
+<table border="1" cellpadding="8" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Product</th>
+			<th>Category</th>
+			<th>One-line Description</th>
+			<th>Built For</th>
+			<th>Pricing</th>
+			<th>Website</th>
 		</tr>
-	</tbody>
-</table>
-       </tr>
 	</thead>
 	<tbody>
 		<tr>
