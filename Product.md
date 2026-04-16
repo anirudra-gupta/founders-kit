@@ -38,12 +38,12 @@ Add new products as a new table row at the end of the tbody section, below the p
 	</thead>
 	<tbody>
 		<tr>
-	<td>Team Forge</td>
-	<td> Networking, AI co-founder matching, AI idea validation </td>
-	<td>Build Your Startup. Together.</td>
-	<td>young founders</td>
-	<td>Free</td>
-	<td><a href="https://teamforge-in.vercel.app/">TEAM FORGE</a></td>
+	       <td>Team Forge</td>
+	       <td> Networking, AI co-founder matching, AI idea validation </td>
+	       <td>Build Your Startup. Together.</td>
+	       <td>young founders</td>
+	       <td>Free</td>
+	      <td><a href="https://teamforge-in.vercel.app/">TEAM FORGE</a></td>
         </tr>
     </tbody>
 </table>
