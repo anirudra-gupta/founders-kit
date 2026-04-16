@@ -34,11 +34,12 @@ Add new products as a new table row at the end of the tbody section, below the p
 		</tr>
 	</tbody>
 </table>
-       <tr>
+       </tr>
 	</thead>
 	<tbody>
+		<tr>
 	<td>Team Forge</td>
-	<td> Networking , AI co-founder matching, AI idea validation </td>
+	<td> Networking, AI co-founder matching, AI idea validation </td>
 	<td>Build Your Startup. Together.</td>
 	<td>young founders</td>
 	<td>Free</td>
