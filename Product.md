@@ -34,7 +34,7 @@ Add new products as a new table row at the end of the tbody section, below the p
 		</tr>
 	</tbody>
 </table>
-<tr>
+       <tr>
 	</thead>
 	<tbody>
 	<td>Team Forge</td>
