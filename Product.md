@@ -35,6 +35,8 @@ Add new products as a new table row at the end of the tbody section, below the p
 	</tbody>
 </table>
 <tr>
+	</thead>
+	<tbody>
 	<td>Team Forge</td>
 	<td> Networking , AI co-founder matching, AI idea validation </td>
 	<td>Build Your Startup. Together.</td>
