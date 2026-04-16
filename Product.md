@@ -31,6 +31,7 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td>Students, beginners, developers upskilling in coding</td>
 			<td>Freemium</td>
 			<td><a href="https://www.lets-code.co.in/">lets-code.co.in</a></td>
+
 		</tr>
 	</tbody>
 </table>
