@@ -40,5 +40,7 @@ Add new products as a new table row at the end of the tbody section, below the p
 	<td>Build Your Startup. Together.</td>
 	<td>young founders</td>
 	<td>Free</td>
-	<td><a href="https://teamforge-in.vercel.app/">your-product-url.com</a></td>
-</tr>
+	<td><a href="https://teamforge-in.vercel.app/">TEAM FORGE</a></td>
+        </tr>
+    </tbody>
+</table>
